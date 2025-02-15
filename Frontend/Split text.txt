@@ -1,0 +1,39 @@
+def split_string(string):
+    max_chars_per_line = 32
+    lines = []
+    current_line = ""
+
+    for word in string.split():
+        if len(current_line) + len(word) + 1 <= max_chars_per_line:
+            current_line += word + " "
+        else:
+            # Find the last space in the current line
+            last_space_index = current_line.rfind(" ")
+            if last_space_index != -1:
+                lines.append(current_line[:last_space_index].strip())
+                current_line = current_line[last_space_index+1:] + word + " "
+            else:
+                # No space found, break the word
+                lines.append(current_line.strip())
+                current_line = word + " "
+
+    if current_line:
+        lines.append(current_line.strip())
+
+    return lines
+
+def write_auto_move(message):
+    if True:
+        if len(message) > 16 and len(message) <= 32:
+            clear()
+            s1 = message[:16]
+            s2 = message[16:]
+            putstr(s1)
+            move_to(1, 0)
+            putstr(s2)
+        elif len(message) > 32:
+            clear()
+            lines_to_write = self.split_string(message)
+            for line in lines_to_write:
+                write_auto_move(line)
+                sleep(4)
