@@ -1,0 +1,60 @@
+1. Fever
+* Time:
+* Acute (< 1 week):
+* Malaria: High fever, chills, headache, muscle aches, vomiting, diarrhea, anemia
+* Typhoid: High fever, headache, weakness, loss of appetite, abdominal pain, constipation or diarrhea, rose spots on the skin
+* Dengue: High fever, severe headache, muscle and joint pain, rash, bleeding gums, nosebleeds
+* Viral Fever: Fever, headache, muscle aches, fatigue, sore throat, cough, runny nose
+* Bacterial Infection: Fever, localized pain or redness, pus formation
+* Chronic (> 1 week):
+* Tuberculosis: Persistent cough, fever, night sweats, weight loss, fatigue
+* HIV/AIDS: Fever, fatigue, swollen lymph nodes, weight loss, night sweats, opportunistic infections
+* Malnutrition: Chronic fatigue, weakness, poor growth, muscle wasting, skin problems
+* Chronic Infection: Persistent fever, fatigue, weight loss, organ dysfunction
+
+2. Respiratory Symptoms
+* Cough:
+* Productive Cough:
+* Pneumonia: Fever, chills, chest pain, difficulty breathing, cough with phlegm
+* Tuberculosis: Persistent cough, fever, night sweats, weight loss, fatigue
+* Dry Cough:
+* Asthma: Wheezing, shortness of breath, chest tightness, cough
+* Bronchitis: Cough, chest congestion, wheezing, shortness of breath
+* Shortness of Breath:
+* Asthma: Wheezing, chest tightness, cough
+* Pneumonia: Fever, chills, chest pain, difficulty breathing, cough with phlegm
+* Heart Failure: Shortness of breath, fatigue, swelling in legs, ankles, and feet
+* Chest Pain:
+* Pneumonia: Fever, chills, difficulty breathing, cough with phlegm
+* Heart Attack: Chest pain or discomfort, shortness of breath, sweating, nausea, vomiting
+
+3. Gastrointestinal Symptoms
+* Diarrhea:
+* Watery Diarrhea:
+* Cholera: Severe watery diarrhea, vomiting, dehydration
+* Rotavirus: Watery diarrhea, vomiting, fever, abdominal pain
+* Bloody Diarrhea:
+* Dysentery: Bloody diarrhea, abdominal pain, fever, mucus in stool
+* Typhoid: High fever, headache, weakness, loss of appetite, abdominal pain, constipation or diarrhea, rose spots on the skin
+* Abdominal Pain:
+* Food Poisoning: Nausea, vomiting, diarrhea, abdominal cramps
+* Appendicitis: Sudden, sharp abdominal pain, especially in the lower right side, loss of appetite, nausea, vomiting
+* Ulcers: Burning pain in the stomach or upper abdomen, especially when the stomach is empty or after eating, nausea, vomiting, heartburn
+* Vomiting:
+* Food Poisoning: Nausea, vomiting, diarrhea, abdominal cramps
+* Gastroenteritis: Nausea, vomiting, diarrhea, abdominal cramps, fever
+
+4. Skin Infections
+* Bacterial Infections:
+* Impetigo: Red sores, blisters, or crusty patches on the skin, often around the nose and mouth
+* Cellulitis: Red, swollen, painful area of skin, often warm to the touch
+* Fungal Infections:
+* Ringworm: Circular, scaly rash, often itchy
+* Athlete's Foot: Itchy, red, scaly rash between the toes
+* Viral Infections:
+* Warts: Small, rough growths on the skin
+* Herpes: Blisters or sores on the skin, often painful
+
+5. Eye Infections
+* Conjunctivitis: Red, itchy, watery eyes, sensitivity to light, discharge from the eyes
+

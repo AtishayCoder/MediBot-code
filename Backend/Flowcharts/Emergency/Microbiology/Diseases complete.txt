@@ -1,0 +1,15 @@
+Malaria
+Typhoid
+Dengue
+Viral fever
+Bacterial infection
+Tuberculosis
+Malnutrition
+HIV/AIDS
+Chronic infection
+
+Pneumonia
+Asthma
+Bronchitis
+Heart faliure
+Heart attack
